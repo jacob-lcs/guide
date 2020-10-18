@@ -1,4 +1,7 @@
-title: 语言规范
+---
+order: 1
+category: JS 规范
+chinese: 语言规范
 ---
 
 ## 语言规范

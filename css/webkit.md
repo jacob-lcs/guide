@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 5
 category: CSS 规范
 chinese: 移动端常用私有属性
 ---

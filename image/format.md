@@ -1,4 +1,7 @@
-title: 图片格式
+---
+order: 0
+category: 图片规范
+chinese: 图片格式
 ---
 
 ## 图片格式

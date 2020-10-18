@@ -1,5 +1,9 @@
-title: 注释规范
 ---
+order: 1
+category: HTML 规范
+chinese: 注释规范
+---
+
 ## 遵循标准
 
 HTML注释规范写法应该遵循以下标准：

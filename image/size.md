@@ -1,4 +1,7 @@
-title: 图片大小
+---
+order: 0
+category: 图片规范
+chinese: 图片大小
 ---
 
 ## 图片大小

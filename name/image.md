@@ -1,4 +1,7 @@
-title: 图片命名
+---
+order: 3
+category: JS 规范
+chinese: 图片命名
 ---
 
 ## 命名顺序

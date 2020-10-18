@@ -1,4 +1,7 @@
-title: 代码规范
+---
+order: 0
+category: JS 规范
+chinese: 代码规范
 ---
 
 ## 编码规范

@@ -1,4 +1,7 @@
-title: React&JSX 书写规范
+---
+order: 2
+category: JS 规范
+chinese: React&JSX 书写规范
 ---
 
 ## React&JSX 书写规范

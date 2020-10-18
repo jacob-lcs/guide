@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 3
 category: CSS 规范
 chinese: 重制样式
 ---
