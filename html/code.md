@@ -1,7 +1,7 @@
 ---
 order: 0
 category: HTML 规范
-chinese: 代码规范
+chinese: HTML 代码规范
 ---
 
 ## DOCTYPE 声明

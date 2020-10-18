@@ -1,7 +1,7 @@
 ---
 order: 0
 category: CSS 规范
-chinese: 代码规范
+chinese: CSS 代码规范
 ---
 
 ## 编码规范
